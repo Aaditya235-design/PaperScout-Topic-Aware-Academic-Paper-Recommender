@@ -1,8 +1,22 @@
-streamlit==1.36.0
-pandas==2.2.2
-numpy==1.26.4
-requests==2.32.3
-plotly==5.22.0
-sentence-transformers==2.7.0
+# Core
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.23.0
+requests>=2.31.0
+plotly>=5.18.0
+
+# NLP / Embeddings
+sentence-transformers>=2.2.2
+torch>=2.0.0
+
+# Optional: FAISS (for fast similarity search, fallback is NumPy if unavailable)
+faiss-cpu>=1.7.4
+
+# Database
+sqlite-utils>=3.34.0
+
+# Misc
+scikit-learn>=1.3.0
+
 
 
