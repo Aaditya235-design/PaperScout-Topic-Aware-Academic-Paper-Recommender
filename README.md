@@ -22,4 +22,7 @@
 ✅ Simplify academic writing with ready-made citations
 
 
+### Access Application Here: https://paperscout-topic-aware-academic-paper-recommender.streamlit.app/
+
+
 
